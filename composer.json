@@ -11,6 +11,8 @@
         }
     },
     "license": "MIT",
-     "require": {},
-    "minimum-stability": "dev"
+     "minimum-stability": "dev",
+    "require": {
+        "illuminate/console": "8.x-dev"
+    }
 }
