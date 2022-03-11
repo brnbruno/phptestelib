@@ -1,0 +1,16 @@
+{
+    "name":"brnbruno/brunoquecommand",
+    "description": "Nada",
+    "type": "libary",
+    "authors": [
+        {"name": "Bruno Henrique de Oliveira", "email": "b.h.oliveira7@gmail.com"}
+    ],
+    "autoload": {
+        "psr-4": {
+            "BrunoHenrique\\Command\\": "src/"
+        }
+    },
+    "license": "MIT",
+     "require": {},
+    "minimum-stability": "dev"
+}
