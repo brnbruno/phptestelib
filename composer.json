@@ -13,6 +13,11 @@
     "license": "MIT",
      "minimum-stability": "dev",
     "require": {
-        "illuminate/console": "8.x-dev"
+        "illuminate/console": "5.7.*"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
     }
 }
